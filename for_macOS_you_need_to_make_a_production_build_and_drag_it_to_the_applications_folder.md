@@ -1,0 +1,2 @@
+# IMPORTANT ISSUE REGARDING DEEP LINKS USING macOS
+for_macOS_you_need_to_make_a_production_build_and_drag_it_to_the_applications_folder.md
